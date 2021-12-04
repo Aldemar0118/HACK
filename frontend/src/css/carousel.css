@@ -1,0 +1,81 @@
+.caro {
+  margin: auto;
+  width: 53%;
+  height: 400px;
+}
+
+.caro_item_1 {
+  width: 100%;
+  height: 400px;
+  background-image: url(../assets/images/banner/caro_1.jpg);
+  margin: auto;
+}
+
+[carousel] {
+  margin: 5%;
+}
+
+.caro_item_2 {
+  width: 100%;
+  height: 400px;
+  background-image: url(../assets/images/banner/caro_2.jpg);
+  margin: auto;
+}
+
+.caro_item_3 {
+  width: 100%;
+  height: 400px;
+  background-image: url(../assets/images/banner/caro_3.jpg);
+  margin: auto;
+}
+
+.caro_item_4 {
+  width: 100%;
+  height: 400px;
+  background-image: url(../assets/images/banner/caro_4.jpg);
+  margin: auto;
+}
+
+.caro_item_5 {
+  width: 100%;
+  height: 400px;
+  background-image: url(../assets/images/banner/caro_5.jpg);
+  margin: auto;
+}
+
+.caro_card {
+  margin: auto;
+  width: 90%;
+}
+
+.caro_aparta {
+  padding: 1% 3% 1% 3%;
+  border: 2px solid red;
+  border-radius: 25px;
+}
+
+.caro_img {
+  width: 100%;
+  height: 200px;
+  background-image: url(../assets/images/banner/caro_5.jpg);
+}
+
+.caro_descri {
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+  text-align: justify;
+}
+
+.caro_boton {
+  width: 60%;
+  margin: 0 0 0 18%;
+  background: #e7015e;
+  color: white;
+  border: 3px inset red;
+}
+
+.caro_boton:hover {
+  background: #8b0239;
+  box-shadow: 2px 2px 2px black;
+}

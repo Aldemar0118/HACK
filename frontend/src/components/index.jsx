@@ -7,9 +7,8 @@ const index = () => {
         <div className="container">
             <Barra/>
             <section className="juego">
-                <h1>HOLA ADMIN! Ya has trabajado demasiado</h1>
-                <h3>Diviertete un rato</h3>
-                <h4>F5 Para Reiniciar</h4>
+                <h1>HOLA ADMIN!</h1>
+
                 
                 
             </section>

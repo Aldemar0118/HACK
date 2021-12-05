@@ -39,13 +39,13 @@ export default function Nav() {
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
                 <Link className="nav-link" to="#">
-                  {/*<i className='fas fa-user'>&nbsp;</i>*/}
+                  <i className='fas fa-user'>&nbsp;</i>
                   Bienvenido {sessionStorage.getItem("nombre")}
                 </Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/" onClick={() => salir()}>
-                  {/*<i className='fas fa-user-times'>&nbsp;</i>*/}
+                  <i className='fas fa-user-times'>&nbsp;</i>
                   Salir
                 </Link>
               </li>
@@ -58,7 +58,7 @@ export default function Nav() {
             <ul className="navbar-nav ml-auto">
              <li className="nav-item">
                <Link className="nav-link" to="/login">
-                 {/*<i className='fas fa-user-plus'>&nbsp;</i>*/}
+                 <i className='fas fa-user-plus'>&nbsp;</i>
                  Ingreso Administrador
                </Link>
              </li>

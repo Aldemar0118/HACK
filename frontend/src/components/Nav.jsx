@@ -40,7 +40,7 @@ export default function Nav() {
               <li className="nav-item">
                 <Link className="nav-link" to="#">
                   {/*<i className='fas fa-user'>&nbsp;</i>*/}
-                  Bienvenido {sessionStorage.getItem("name")}
+                  Bienvenido {sessionStorage.getItem("nombre")}
                 </Link>
               </li>
               <li className="nav-item">

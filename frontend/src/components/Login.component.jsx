@@ -118,7 +118,7 @@ export default function SignInSide() {
               <LockOutlinedIcon />
             </Avatar>
             <Typography component="h1" variant="h5">
-              Iniciar sesión
+              Inicio Sesión Administrador
             </Typography>
             <Box component="form" noValidate onSubmit={login} sx={{ mt: 1 }}>
               <TextField
